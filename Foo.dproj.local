@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/03/02 11:08:54.000.191,=D:\Download\Teste Softplan\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/03/02 11:09:36.000.109,D:\Download\Teste Softplan\appmanutencao-master\src\Unit1.dfm=D:\Download\Teste Softplan\appmanutencao-master\src\LogExcecao.dfm</Transaction>
+    <Transaction>2021/03/02 11:09:36.000.109,D:\Download\Teste Softplan\appmanutencao-master\src\Unit1.pas=D:\Download\Teste Softplan\appmanutencao-master\src\LogExcecao.pas</Transaction>
+    <Transaction>2021/03/03 18:48:23.926,=D:\Download\Teste Softplan\appmanutencao-master\src\Unit1.pas</Transaction>
+    <Transaction>2021/03/03 18:48:40.815,D:\Download\Teste Softplan\appmanutencao-master\src\Threads.dfm=D:\Download\Teste Softplan\appmanutencao-master\src\Unit1.dfm</Transaction>
+    <Transaction>2021/03/03 18:48:40.815,D:\Download\Teste Softplan\appmanutencao-master\src\Threads.pas=D:\Download\Teste Softplan\appmanutencao-master\src\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
